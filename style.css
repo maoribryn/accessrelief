@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #def;
+  padding: 1rem;
+  border-radius: 8px;
+}
+main section {
+  margin-top: 2rem;
+}
